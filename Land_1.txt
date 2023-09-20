@@ -1,0 +1,30 @@
+                                  Vellore Institute of Technology
+                         School of Computer Science and Engineering (SCOPE)
+                                     Fall Semester – 2021-22
+                                      Cryptography Project
+
+Agreement by Nikhil here in after known as the Owner whose Address is : Flat 311 DK New Delhi 
+And 
+the estate allows him to exercise control over the property for as long as he intends.
+
+1.THE PROPERTY:  The parties hereby agree to the following details for property, located in and situate in NEW DELHI :
+
+  Full Address : Plot no : 512 Dk New Delhi 
+  Area : 500 acres 
+  Facing : East 
+  Shape : L-shape
+
+  Also known as by street and address as DLF colony .
+
+2.THE OWNER:
+
+  owner : Nikhil 
+  owner id: sdf234
+  land id: 1235 5467 0912 3428
+
+3.Digitally Signed by: The Registar Office of Delhi
+
+4.Previous Records:
+
+550e9e06f338c607f60efeea3e2e8d0283789708
+70d517a8d4b7ca406cb98ce6a5b63da6316fbeb0

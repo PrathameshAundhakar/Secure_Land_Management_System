@@ -1,0 +1,29 @@
+                                  Vellore Institute of Technology
+                         School of Computer Science and Engineering (SCOPE)
+                                     Fall Semester – 2021-22
+                                      Cryptography Project
+
+Agreement by Konark here in after known as the Owner whose Address is : Flat 311 DK New Delhi 
+And 
+the estate allows him to exercise control over the property for as long as he intends.
+
+1.THE PROPERTY:  The parties hereby agree to the following details for property, located in and situate in NEW DELHI :
+
+  Full Address : Plot no : 234 Db New Delhi 
+  Area : 1500 acres 
+  Facing : North 
+  Shape : Sq-shape
+
+  Also known as by street and address as Sastri nagar.
+
+2.THE OWNER:
+
+  owner : Konark
+  owner id: fgh123
+  land id: 7892 5642 7994 4670
+
+3.Digitally Signed by: The Registar Office of Delhi
+
+4.Previous details:
+
+a263c1711f20f4d92ff1307f60151bfc987ee3c8
